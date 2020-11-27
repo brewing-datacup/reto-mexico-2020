@@ -1,0 +1,19 @@
+# archivos a ignorar en repo
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# directorios a ignorar en repo
+.ipynb_checkpoints/
+__pycache__/
+
+# extensiones a ignorar
+# quitar comentatio para excluir
+#*.csv
+#*.json
+#*.pkl
+#*.rds
+
